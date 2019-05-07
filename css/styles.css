@@ -48,16 +48,18 @@ nav ul li:not(.input):hover {
 nav ul li input {
   background: url("../img/search-icon.png") 2% 50% no-repeat;
   background-size: 16px 16px;
-  width: 100px;
+  width: 60px;
   margin: auto 10px;
   border-radius: 10px;
   border: 2px inset rgba(0,0,0,0.5);
   padding-left: 20px;
+  transition: width 0.5s linear 0.2s;
 }
 
 nav ul li input:focus{
   background: url("../img/search-icon-black.png") 2% 50% no-repeat, white;
   background-size: 16px 16px;
+  width: 100px;
   color: black;
 }
 .caption-wrap {
