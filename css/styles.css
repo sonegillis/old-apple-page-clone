@@ -71,12 +71,11 @@ nav ul li input:focus{
 .caption {
   vertical-align: middle;
   display: table-cell;
-  vertical-align: middle;
   color: white;
 }
 
 .head{
-  font-size: 2.0em;
+  font-size: 2.0em;b
   padding-top: 10px;
   margin: 0;
   font-weight: lighter;
@@ -88,7 +87,6 @@ nav ul li input:focus{
 
 .caption p{
     padding-bottom: 20px;
-    margin: 0;
     font-size: 20px;
     width: 50%;
     margin: 0 auto;
