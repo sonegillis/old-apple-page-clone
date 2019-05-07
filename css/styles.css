@@ -76,7 +76,7 @@ nav ul li input:focus{
 }
 
 .head{
-  font-size: 46px;
+  font-size: 52px;
   padding-top: 10px;
   margin: 0;
   font-weight: 100;
@@ -89,17 +89,17 @@ nav ul li input:focus{
     width: 50%;
     margin: 0 auto;
     line-height: 1.4em;
-    font-family: "Palatino Linotype", "Book Antiqua", sans-serif
+    font-family: 'Raleway', sans-serif;
 }
 
 .caption p:nth-child(2n){
   transform: scaleY(1.4);
-  padding-bottom: 20px;
-  font-size: 21px;
+  padding-bottom: 24px;
+  font-size: 23px;
 }
 
 .caption p:last-child {
-  font-size: 18px;
+  font-size: 20px;
 }
 .caption a {
     color: white;
