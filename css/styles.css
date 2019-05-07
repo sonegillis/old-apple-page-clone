@@ -5,7 +5,7 @@ body {
 
 header {
   font-size: 0.8em;
-  positibon: absolute;
+  position: absolute;
   top: 87px;
   width: 100%;
 }
