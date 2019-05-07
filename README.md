@@ -8,4 +8,4 @@ A web page that clones the page of an old [apple web page](https://web.archive.o
 4. Web Browser
 
 ## Contributors
-1. Mekolle Sone Gillis Ekeh ( [github](https://github.com/sonegillis), [linkedIn](www.linkedin.com/in/mekolle-sone-gillis-ekeh-junior-7180bb162)
+1. Mekolle Sone Gillis Ekeh ( [github](https://github.com/sonegillis), [linkedIn](www.linkedin.com/in/mekolle-sone-gillis-ekeh-junior-7180bb162) )
