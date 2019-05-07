@@ -11,7 +11,8 @@ A web page that clones the page of an old [apple web page](https://web.archive.o
 ## Getting Started
 1. Open a terminal and type
    ```bash
-   $ git clone https://github.com/sonegillis/old-apple-page-clone```
+   $ git clone https://github.com/sonegillis/old-apple-page-clone
+   ```
 2. Navigate to the cloned d directory.
 3. Open the _index.html_ file in your web browser. 
 
