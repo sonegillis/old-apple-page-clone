@@ -89,7 +89,7 @@ nav ul li input:focus{
     width: 50%;
     margin: 0 auto;
     line-height: 1.4em;
-    font-family: Times "Times New Roman", sans-serif;
+    font-family: Times, "Times New Roman", sans-serif;
 }
 
 .caption p:nth-child(2n){
